@@ -6,11 +6,7 @@ Created on Mon Jan 22 23:50:14 2018
 @author: zhurundong
 """
 # Polynomial Regression
-"""
-Why Polynomial is still linear regression?
 
-Because the coefficients are linear. 
-"""
 
 # Data Preprocessing Template
 
